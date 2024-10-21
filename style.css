@@ -88,7 +88,7 @@ button:focus {
 }
 
 .operator {
-  background: grey;
+  background: rgb(255, 150, 0);;
   color: white;
   font-size: 30px;
 }
