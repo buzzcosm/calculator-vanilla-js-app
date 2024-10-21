@@ -122,7 +122,12 @@ button:focus {
 
 /* Media Query: Large Smartphone (Vertical) */
 @media screen and (max-width: 600px) {
-  /* .calculator {
+  .calculator {
     width: 95%;
-  } */
+  }
+
+  button {
+    width: 80px;
+    
+  }
 }
